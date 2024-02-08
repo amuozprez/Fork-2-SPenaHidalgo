@@ -319,3 +319,7 @@ button:hover i {
 footer p {
  text-align: center;
 }
+
+footer {
+ background-color: black;   
+}
